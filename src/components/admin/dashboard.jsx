@@ -1,8 +1,8 @@
-import React from "react";
-import { Route } from "react-router-dom";
-import Users from "./users";
-import Posts from "./posts";
-import SideBar from "./sidebar";
+import React from 'react';
+import { Route } from 'react-router-dom';
+import Users from './users';
+import Posts from './posts';
+import SideBar from './sidebar';
 
 const Dashboard = ({ match }) => {
   return (
